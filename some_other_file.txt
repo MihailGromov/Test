@@ -1,0 +1,10 @@
+This is jsut a random file which I want to send to you.
+I apologise for wwiting this. I just don't have anything else to do.
+
+import Html
+import Html.Events as Event
+import Html.Attributes as Attribute
+
+main : Main Program Model Msg
+main =
+	
